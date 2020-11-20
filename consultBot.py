@@ -46,7 +46,7 @@ def add(message):
             bot.send_message(message.chat.id,'Запрошенная консультация занята либо не существует')
 
        
-
+#gh
 
 if __name__ == '__main__':
      bot.polling(none_stop=True)
